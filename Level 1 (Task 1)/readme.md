@@ -1,6 +1,6 @@
-#Level 1 (Task 1)
+Level 1 (Task 1)
 This work is done for the sole purpose of Level 1 (Task 1) of Web Development Internship by Oasis Infobyte.
-#Instructions
+Instructions
     - Download the files
     - Go to the "Level 1 (Task 1)" folder
     - open with any Integrated Development Environment
