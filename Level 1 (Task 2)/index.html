@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter | By Bhaskar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="converter">
+        <div class="convert">
+            <div>
+                <label for="tempInput">Enter temperature:</label>
+                <input type="text" id="tempInput" name="tempInput">
+            </div>
+            <div>
+                <label for="tempUnit">Choose unit:</label>
+                <select id="tempUnit" name="tempUnit">
+                <option value="celsius">Celsius</option>
+                <option value="fahrenheit">Fahrenheit</option>
+                </select>
+            </div>
+            <div>
+                <button id="convertBtn">Convert</button>
+            </div>
+            <div>
+                <p id="result"></p>
+            </div>
+        </div>   
+    </section>
+  <script src="temp.js"></script>
+</body>
+</html>
+
+  
